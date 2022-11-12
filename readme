@@ -1,0 +1,6 @@
+Steps to get this to work - 
+
+1. Go to rapid api and somehow find the api that is used in this project, 
+2. Put in the rapid api host, token, and the voice api token in a .env project.
+3. cargo run -- "your message here"
+4. youre done :)
